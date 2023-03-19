@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.status {
+  width: 30rem;
+  height: 20rem;
+}
